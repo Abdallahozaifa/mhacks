@@ -1,0 +1,2 @@
+C:\Users\My\Documents\Mhacks V0.001\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\My\Documents\Mhacks V0.001\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

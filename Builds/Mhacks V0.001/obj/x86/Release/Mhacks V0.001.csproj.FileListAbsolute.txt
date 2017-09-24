@@ -1,0 +1,2 @@
+C:\Users\My\Documents\Mhacks V0.001\Builds\Mhacks V0.001\obj\x86\Release\Mhacks V0.001.csprojResolveAssemblyReference.cache
+C:\Users\My\Documents\Mhacks V0.001\Builds\Mhacks V0.001\obj\x86\Release\Mhacks V0.001.csproj.CoreCompileInputs.cache

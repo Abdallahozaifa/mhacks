@@ -1,0 +1,1 @@
+C:\Users\My\Documents\Mhacks V0.001\Builds\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
