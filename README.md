@@ -1,0 +1,2 @@
+# Holocode: An Immersive Intro to Programming
+Our project enables schools to introduce students to programming in a much more approachable manner. Inspired by projects like Scratch and HourofCode, our project aims to introduce block programming in a more immersive enviroment. Unlike VR, the Microsoft Hololens provides a medium that would allow students to have a better visualization for learning the fundementals of programming without diminishing the social experience, and collaboration within the classroom.
